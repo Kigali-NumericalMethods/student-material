@@ -71,3 +71,10 @@ Below are five online references which are incredibly useful. I will refer to th
 	* Introduction to Numerical Methods and Matlab Programming for Engineers
 	* http://www.ohiouniversityfaculty.com/youngt/IntNumMeth  
 	* Matlab 
+
+
+
+## Listing of problem sets
+
+* Problem set 1: `01_PythonIntro/part_1/problem_set_1.pdf`
+* Problem set 2: `01_PythonIntro/part_2/problem_set_2.pdf`
