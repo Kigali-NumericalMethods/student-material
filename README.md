@@ -47,7 +47,7 @@ To facilitate the theory and practical aspects, most topics will be taught with 
 
 Below are five online references which are incredibly useful. I will refer to them via the name shown in quotes throughout lectures, or in problem sets.
 
-1. "PyNumlMeth"
+1. "PyNumMeth"
 	* Python Programming And Numerical Methods: A Guide For Engineers And Scientists
 	* https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html
 	* Python
