@@ -78,3 +78,8 @@ Below are five online references which are incredibly useful. I will refer to th
 
 * Problem set 1: `01_PythonIntro/part_1/problem_set_1.pdf`
 * Problem set 2: `01_PythonIntro/part_2/problem_set_2.pdf`
+* Problem set 3 (function approx.): `02_FuncAndFuncDerivApproximation/problem_set_3.pdf`
+* Problem set 4 (derivative function approx.): `02_FuncAndFuncDerivApproximation/problem_set_4.pdf`
+
+
+
