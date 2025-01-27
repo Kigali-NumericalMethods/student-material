@@ -55,7 +55,7 @@ Below are five online references which are incredibly useful. I will refer to th
 2. "FNC" 
 	* Fundamentals of Numerical Computation
 	* https://fncbook.com  
-	* Julia (and Matlab)
+	* Julia (Book link also contains Python example code)
 
 3. "NumMeth_Sullivan"
 	* Numerical Methods - An Inquiry-Based Approach With Python
