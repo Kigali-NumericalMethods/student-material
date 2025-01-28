@@ -32,14 +32,23 @@ To facilitate the theory and practical aspects, most topics will be taught with 
 * Numerical stability, ill conditioning
 * Root finding
 * Solving systems of nonlinear equations
-* Regression, interpolation in 2D
 * Solving Ordinary Differential Equations | scalar, systems
 * Solving Partial Differential Equations (finite difference for linear, nonlinear problems)
+
+--
+
+* Regression, interpolation in 2D
 
 
 ## Assessment
 
-* To be determined.
+* Homweork (60%)
+	- There will be three homeworks due on
+		- Feb 01, 2025
+		- Feb 06, 2025
+		- Feb 11, 2025		
+* Final exam (40%)
+	- Likely to be conducted on Feb 13, 2025 or Feb 14, 2025.
 
 * Completing the problem sets provided during lectures will constitute the homework component of your assessment for this course.
 
@@ -82,4 +91,7 @@ Below are five online references which are incredibly useful. I will refer to th
 * Problem set 4 (derivative function approx.): `02_FuncAndFuncDerivApproximation/problem_set_4.pdf`
 
 
+## Listing of homeworks
+
+* Homework 1: `homework/numerical_methods_hw01.pdf`
 
