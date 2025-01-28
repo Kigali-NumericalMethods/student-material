@@ -16,6 +16,8 @@
 #                        ) + 3
 #                |
 #            )
+# The indentation helps expose the depth of the evaluation tree.
+#
 
 import math
 
@@ -26,7 +28,7 @@ x = 0.11
 t1 = math.exp(x) # Compute temperary variable for the deepest part of the calculation
 t2 = math.cos( t1 ) + math.pi # Use previous temp variable (t1) to compute another temp variable depth + 1 term
 t3 = math.sin( t2 ) + 3.0
-t4 = math.fabs( t3 )
+t4 = math.fabs( t3 ) # Takes the absolute value
 t5 = math.sqrt( t4 )
 
 f = t5
