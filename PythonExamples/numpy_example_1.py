@@ -1,5 +1,5 @@
 
-# Example of computin z = c + y with loops
+# Example of computing z = x + y with loops
 
 import numpy
 
