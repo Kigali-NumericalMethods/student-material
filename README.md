@@ -50,7 +50,7 @@ To facilitate the theory and practical aspects, most topics will be taught with 
 * Final exam (40%)
 	- Likely to be conducted on Feb 13, 2025 or Feb 14, 2025.
 
-* Completing the problem sets provided during lectures will constitute the homework component of your assessment for this course.
+* The problem sets provided during lectures will constitute a large component of the homeworks issued.
 
 ## Electronic references
 
