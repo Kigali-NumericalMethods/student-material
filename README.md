@@ -87,8 +87,7 @@ Below are five online references which are incredibly useful. I will refer to th
 * Problem set 3 (function approx.): `02_FuncAndFuncDerivApproximation/problem_set_3.pdf`
 * Problem set 4 (derivative function approx.): `02_FuncAndFuncDerivApproximation/problem_set_4.pdf`
 * Problem set 5 (interpolation): `03_Interp/problem_set_5.pdf`
+* Problem set 6 (regression): `04_Regression/problem_set_6.pdf`
 
 ## Listing of homeworks
-
-* Homework 1: `homework/numerical_methods_hw01.pdf`
 
