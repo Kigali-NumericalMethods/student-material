@@ -25,16 +25,14 @@ To facilitate the theory and practical aspects, most topics will be taught with 
 
 * Programming basics in Python (datatypes, arrays, plotting)
 * Taylor series, function approximation, derivative approximation
-* Interpolation and Integration in 1D
-* Linear algebra I (vectors, matrices, special case solvers)
-* Linear algebra II (LU factorization, sparsity, sparse LU)
+* Interpolation in 1D
+* Regression in 1D
 * Errors, round-off, finite precision
 * Numerical stability, ill conditioning
-* Regression in 1D
-* Root finding
-* Solving systems of nonlinear equations
+* Linear algebra (vectors, matrices, solvers)
+* Solving non-linear problems (scalar and systems)
+* Integration in 1D
 * Solving Ordinary Differential Equations | scalar, systems
-* Solving Partial Differential Equations (finite difference for linear, nonlinear problems)
 
 
 ## Assessment
