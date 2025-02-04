@@ -115,11 +115,11 @@ def create_sparse_mat(val0, val1, n):
     elif i == n-1:
       row_idx = i
       col_idx = i
-      B[row_idx, col_idx] = val1
+      B[row_idx, col_idx] = val0
 
       row_idx = i
       col_idx = i-1
-      B[row_idx, col_idx] = val0
+      B[row_idx, col_idx] = val1
     else:
       row_idx = i
       col_idx = i+1
