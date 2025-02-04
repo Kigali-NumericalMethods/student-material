@@ -45,7 +45,7 @@ To facilitate the theory and practical aspects, most topics will be taught with 
 		- Feb 06, 2025
 		- Feb 11, 2025		
 * Final exam (40%)
-	- Likely to be conducted on Feb 13, 2025 or Feb 14, 2025.
+	- Feb 14, 2025 (time and location to be determined by C. Meriaux)
 
 * The problem sets provided during lectures will constitute a large component of the homeworks issued.
 
@@ -91,3 +91,7 @@ Below are five online references which are incredibly useful. I will refer to th
 * Problem set 7 (linear algebra): `06_LinearAlgebra/problem_set_7.pdf`
 
 ## Listing of homeworks
+
+* Homework 1: `homework/numerical_methods_hw01.pdf`
+* Homework 2: `homework/numerical_methods_hw02.pdf`
+
