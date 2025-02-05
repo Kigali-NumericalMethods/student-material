@@ -87,6 +87,7 @@ Below are five online references which are incredibly useful. I will refer to th
 * Problem set 5 (interpolation): `03_Interp/problem_set_5.pdf`
 * Problem set 6 (regression): `04_Regression/problem_set_6.pdf`
 * Problem set 7 (linear algebra): `06_LinearAlgebra/problem_set_7.pdf`
+* Problem set 8 (nonlinear problems): `07_NonlinearProblems/problem_set_8.pdf`
 
 ## Listing of homeworks
 
