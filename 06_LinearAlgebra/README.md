@@ -1,4 +1,4 @@
-## Linear Algebra I
+## Linear Algebra
 
 ### References
 
