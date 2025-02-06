@@ -89,9 +89,9 @@ Below are five online references which are incredibly useful. I will refer to th
 * Problem set 7 (linear algebra): `06_LinearAlgebra/problem_set_7.pdf`
 * Problem set 8 (nonlinear problems): `07_NonlinearProblems/problem_set_8.pdf`
 * Problem set 9 (numerical integration): `08_Integration/problem_set_9.odf`
+* Problem set 10 (ordinary differential equations): `09_ODEs/problem_set_10.pdf`
 
 ## Listing of homeworks
 
 * Homework 1: `homework/numerical_methods_hw01.pdf`
 * Homework 2: `homework/numerical_methods_hw02.pdf`
-
