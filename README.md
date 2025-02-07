@@ -95,3 +95,4 @@ Below are five online references which are incredibly useful. I will refer to th
 
 * Homework 1: `homework/numerical_methods_hw01.pdf`
 * Homework 2: `homework/numerical_methods_hw02.pdf`
+* Homework 3: `homework/numerical_methods_hw03.pdf`
