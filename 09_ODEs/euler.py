@@ -72,4 +72,5 @@ print('error at final time', '%1.8e'%math.fabs(y[-1] - ye[-1]))
 # Make a simple plot
 plt.plot(t, y, label='forward-Euler')
 plt.plot(t, y_exact, label='exact')
-plt.legend();
+plt.legend()
+plt.show()
